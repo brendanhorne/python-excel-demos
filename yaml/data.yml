@@ -1,0 +1,37 @@
+project:
+  name: Melbourne Airport Rail
+  work_packages:
+    Sunshine Systems:
+      abbreviation: SSA
+      led_by: RPV
+      contract:
+        status: Awarded
+        contractor: Sunshine Systems Alliance
+    ARTC:
+      abbreviation: AAP
+      led_by: ARTC
+    Airport:
+      abbreviation: AIP
+      led_by: RPV
+      contract: null
+    Viaduct:
+      abbreviation: AVP
+      led_by: RPV
+      contact: 
+        status: null
+    Corridor:
+      abbreviation: ACP
+      led_by: RPV
+      contract:
+        status: null
+    Maribyrnong River Bridge:
+      abbreviation: MRP
+      led_by: RPV
+      contract:
+        status: Awarded
+    Early Works:
+      abbreviation: AEW
+      led_by: RPV
+      contract: 
+      status: Awarded
+      contractor: Lang O'Rouke
